@@ -66,7 +66,7 @@ CyberOS_Engr v3.0 | Focus: Network Security | Penetration Testing | Digital Fore
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CyberSnehal&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com?user=CyberSnehal&theme=dark" alt="GitHub Streak"/>
+  <img src="https://camo.githubusercontent.com/1aae6f54eb2a9741337e07b7b626731fd0ae25e33eb324c8129dd8b6cdcf3ac1/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d43796265726b696e673078312673686f775f69636f6e733d74727565267468656d653d7261646963616c"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CyberSnehal&bg_color=000000&color=00ff00&line=ff0000&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
 </p>
 
