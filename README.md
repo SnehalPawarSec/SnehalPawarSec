@@ -1,4 +1,4 @@
-![Snehal's banner](https://i.imgur.com/Z2A5Hja.gif)
+![Snehal's banner](https://media.licdn.com/dms/image/v2/D5616AQHuKK0fOQ18pw/profile-displaybackgroundimage-shrink_350_1400/B56ZYzCjMSGcAY-/0/1744613035051?e=1750291200&v=beta&t=9IDI6gg359jHbPRiEP73pH9synawsbrLrh6OWWLqczE)
 
 # 👾 Snehal Pawar
 ### 🕵️‍♀️ Cybersecurity Researcher | InfoSec Enthusiast | IT Engineer
