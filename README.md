@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F70000&center=true&vCenter=true&width=435&lines=Cyber+Warrior;InfoSec+Analyst+in+training;Hacking+for+a+Safer+Tomorrow;Always+watching+the+logs..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F70000&center=true&vCenter=true&width=435&lines=Security+Researcher;InfoSec+Analyst+in+training;Hacking+for+a+Safer+Tomorrow;Always+watching+the+logs..." alt="Typing SVG" />
 </p>
 
 ---
